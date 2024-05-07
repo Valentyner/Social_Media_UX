@@ -1,0 +1,1 @@
+export * as protectRoute from "./protectRoute.js"
